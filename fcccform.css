@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(30, 30, 45);
+    color: white;
+    text-align: center;
+}
+
+.mydetails{
+    display:block;
+    text-align: center;
+    padding: 5px;
+}
+.indetails{
+    padding: 10px;
+}
+.acdetails{
+    padding: 3px;
+}
+.inacdetails{
+    padding:6px;
+}
+.otherdetails{
+    padding:6px;
+    
+}
+.file{
+    text-align: center;
+    padding-left:80px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+button{
+    width: 15%;
+    padding-top: 5px;
+}
+.submit{
+    padding-top: 10px;
+}
+input{
+    background-color:  rgb(127, 127, 137);
+    border:white;
+    border:1px;
+    border:solid;
+    border:#0a0a23;
+}
